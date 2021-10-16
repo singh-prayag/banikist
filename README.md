@@ -1,1 +1,1 @@
-# banikist
+# bankist
